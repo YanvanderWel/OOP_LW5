@@ -45,7 +45,7 @@ public class Main {
 			System.out.println(ac.convertUAHToEUR(digitForConverting));
 
 			System.out.print("Чи бажаєте ви завершити програму (Y/N): ");
-			if ("Y".equals(sc.next())) {
+			if ("Y".equals(sc.next()) || "y".equals(sc.next())) {
 				isProgramFinished = true;
 			}
 			
