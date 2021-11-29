@@ -1,4 +1,4 @@
-package lw5_second_version;
+package oop.lw5_second_version;
 
 public class OrdinaryCalc extends AbstractCalc {
 
